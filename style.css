@@ -1,0 +1,19 @@
+body{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+h1{
+    font-size: 30px;
+}
+img {
+    width: 150px;
+    height: 150px;
+}
+button{
+    background-color: deepskyblue;
+    border: none;
+    color: white;
+    font-size: 30px;
+    border-radius: 10px;
+}
